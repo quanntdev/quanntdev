@@ -7,3 +7,6 @@ Here are some ideas to get you started:
 
 ## About me
 ![trophy](https://github-profile-trophy.vercel.app/?username=quanntdev&theme=onedark)
+
+## Some package
+- A simple and powerful client for interacting with the Gemini API to analyze data from websites. [gemini-transfer-image-support](https://www.npmjs.com/package/gemini-transfer-image-support)
